@@ -1,7 +1,7 @@
 # Raspberry π Pico
 Experimentos com a placa Raspberry π Pico 
 
-<img src="lcd1602a/figs/lcd.jpg">
+<img src="figs/lcd.jpg">
 
 ## Recomendações gerais
 - Considere soldar barras de pinos na sua placa, pois fixar jumpers nos pinos (como na foto acima) de E/S não funciona bem!

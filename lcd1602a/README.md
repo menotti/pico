@@ -1,6 +1,6 @@
 # Usando um display 1602A sem adaptador I2C  
 
-<img src="figs/lcd.jpg">
+<img src="../figs/lcd.jpg">
 
 ## Referências
 * https://www.arduino.cc/en/Reference/LiquidCrystal
